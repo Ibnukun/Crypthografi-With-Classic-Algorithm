@@ -1,0 +1,1 @@
+Algoritma.klasik.Encrypt
